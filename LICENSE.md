@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Notion for macOS workflow with Notion for macOS best Workflow - focus mode and markdown support. Featuring focus mode and markdown support, it's the best choice
 
 
 
